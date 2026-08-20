@@ -3,7 +3,13 @@ login
 autenticacion de usuarios por roles
 
 
+<<<<<<< HEAD
 cree una idea nueva pero no se si funcione ç
 
 
 intentando fucionar master con rama 
+=======
+cree una idea nueva pero no se si funcione 
+
+mejorando las autenticaciones 
+>>>>>>> idea-nueva
