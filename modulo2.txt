@@ -3,3 +3,6 @@ crear cuenta
 creacion de usuarios y contraseña
 
 envio de correo pero ya no tiene codigo sino cambio de contraseña 
+
+
+nuevos cambios que van al remoto 
