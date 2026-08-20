@@ -1,3 +1,5 @@
 crear cuenta
 
 creacion de usuarios y contraseña
+
+envio de correo y codigo para activar cuenta 
