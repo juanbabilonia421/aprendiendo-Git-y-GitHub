@@ -3,4 +3,7 @@ login
 autenticacion de usuarios por roles
 
 
-cree una idea nueva pero no se si funcione 
+cree una idea nueva pero no se si funcione ç
+
+
+intentando fucionar master con rama 
